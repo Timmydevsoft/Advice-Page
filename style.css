@@ -73,13 +73,13 @@ h2{
     justify-content: center;
     border: none;
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     background: var(--Neon-Green);
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    top: 63.5%;
+    top: 64.5%;
 }
 
 .dice-container:hover{
@@ -116,7 +116,7 @@ h2{
    }
 
     .dice-container{
-        top: 66%;
+        top: 66.5%;
         width: 60px;
         height: 60px;
     }
